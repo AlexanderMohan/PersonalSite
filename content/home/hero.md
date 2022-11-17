@@ -6,10 +6,10 @@ title: Alexander Mohan Morzeria-Davis
 hero_media: hero-academic.png
 cta:
   label: '**See more about me**'
-  url: #about
+  url: '/#about'
 cta_alt:
   label: Ask a question
-  url: #contact
+  url: '/#contact'
 design:
   background:
     gradient_end: '#1976d2'
