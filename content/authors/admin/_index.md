@@ -1,6 +1,7 @@
 ---
 title: Alexander Mohan Morzeria-Davis
 role: Student
+avatar_filename: 1534a7d2-0422-4b39-aab5-fb5f5cfa1eff.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
