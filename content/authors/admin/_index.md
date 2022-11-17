@@ -1,13 +1,12 @@
 ---
 title: Alexander Mohan Morzeria-Davis
-role: Student
+role: Student, IT Systems Engineer at Bedlam Theatre|EUTC and SharePoint Technician at University of Edinburgh
 avatar_filename: 1534a7d2-0422-4b39-aab5-fb5f5cfa1eff.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My interests include theatrical technology, systems administration and business relationships.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Theatrical Technology
+  - Systems Administration and Engineering
+  - Business Relationships, especially International
 social:
   - icon: envelope
     icon_pack: fas
@@ -32,15 +31,9 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MA French and Italian
+      institution: The University of Edinburgh
+      year: 2023
 superuser: true
 last_name: Bighetti
 highlight_name: true
@@ -48,8 +41,10 @@ first_name: Alice
 email: ""
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm Alexander Mohan Morzeria-Davis, a student at the University of Edinburgh studying MA French and Italian. I am currently in my fourth year of study, and am looking to graduate in 2022. I am also a member of the Edinburgh University Theatre Company and acting as IT Systems Engineer, and am currently working as a SharePoint Technician at the University of Edinburgh.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My work at the EUTC involves maintaining the company's website, for which I have been working on a redesign – moving a legacy Ruby on Rails app to a new design language. I am also responsible for maintaining the company's IT systems, including the company's server, and the company's network. I also administrate a Microsoft 365 system, as well as cloud services on Microsoft Azure.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+At the University of Edinburgh I am responsible for maintaining the technical side of our department's SharePoint, including building PowerApps and web parts. These help us to automate our business processes, and to reduce erroneous submissions to our service.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
